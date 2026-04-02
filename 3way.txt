@@ -1,1 +1,3 @@
 Hello 3waytxt!
+
+fixed 3way branch
